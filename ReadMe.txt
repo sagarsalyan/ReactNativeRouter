@@ -16,3 +16,4 @@ If you want to run android emulator using android studio, come out of the curren
 
 Install ReactRouter in the project folder
 > npm install react-router-native
+  
